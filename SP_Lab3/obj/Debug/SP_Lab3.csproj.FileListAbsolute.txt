@@ -1,0 +1,12 @@
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\bin\Debug\SP_Lab3.exe.config
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\bin\Debug\SP_Lab3.exe
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\bin\Debug\SP_Lab3.pdb
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.csprojAssemblyReference.cache
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.Properties.Resources.resources
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.csproj.GenerateResource.cache
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.exe
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.pdb
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.Form1.resources
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.AddProgramForm.resources
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.AddUserForm.resources
+C:\Users\dmitr\RiderProjects\SP_Lab3\SP_Lab3\obj\Debug\SP_Lab3.EditHarwareForm.resources
